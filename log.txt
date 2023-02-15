@@ -1,0 +1,130 @@
+commit 8fb9d04f3a7271f7b904a3529ac79bc7ae380826
+Author: Natalia Barrera <jnbarrera191@gmail.com>
+Date:   Wed Apr 27 19:52:52 2022 -0500
+
+    Nueva versión del Hyperblog
+
+commit 77d77b15f64b01d1ddd8fcf7439bc8d7f0be9088
+Author: NataliaBarrera <67290872+Jnbarrera@users.noreply.github.com>
+Date:   Wed Apr 27 19:21:32 2022 -0500
+
+    Cambie el titulo del Blog
+    
+    Paso 1
+
+commit 2d7e249a9bffd5805c7656603b94718200ef6789
+Author: NataliaBarrera <67290872+Jnbarrera@users.noreply.github.com>
+Date:   Wed Apr 27 19:13:39 2022 -0500
+
+    Creación de readme
+
+commit 75b73c0586fe5e54b743c4fad20124d9386e9ebc
+Merge: 3d6c5be 076ae8f
+Author: Natalia Barrera <jnbarrera191@gmail.com>
+Date:   Wed Apr 27 16:56:05 2022 -0500
+
+    Soluciona conflicto de merge entre ramas
+
+commit 3d6c5beb303828787960f6956b586d0d4a2f11b4
+Author: Natalia Barrera <jnbarrera191@gmail.com>
+Date:   Wed Apr 27 16:51:30 2022 -0500
+
+    Agregue suscripción, cambie cabecera y color de texto
+
+commit 076ae8f92b2c1f53a0cb3b16e49121be7625a8c5
+Author: Natalia Barrera <jnbarrera191@gmail.com>
+Date:   Wed Apr 27 16:48:53 2022 -0500
+
+    Modifique la cabecera y el color del texto
+
+commit d05b0bf0f32bdbfa06aa7c243b0a109106e05fa1
+Merge: b586ecd 0fc9a6b
+Author: Natalia Barrera <jnbarrera191@gmail.com>
+Date:   Wed Apr 27 14:41:38 2022 -0500
+
+    Merge cabecera
+
+commit 0fc9a6b814e49977e32244f627248ff8b279019b
+Author: Natalia Barrera <jnbarrera191@gmail.com>
+Date:   Wed Apr 27 14:38:12 2022 -0500
+
+    Cambio cabecera !
+
+commit b586ecd9bb7780977f627509e7f89c6dc027e811
+Author: Natalia Barrera <jnbarrera191@gmail.com>
+Date:   Wed Apr 27 14:33:17 2022 -0500
+
+    Cambio post
+
+commit e1ca7818be577bdaebd0754da1fd6399b1aa5665
+Merge: 902e32f 171f520
+Author: Natalia Barrera <jnbarrera191@gmail.com>
+Date:   Wed Apr 27 14:32:04 2022 -0500
+
+    Cambio
+
+commit 902e32fec9b2d5ff16adfd83d3db46cff3f2aad3
+Author: Natalia Barrera <jnbarrera191@gmail.com>
+Date:   Wed Apr 27 14:25:19 2022 -0500
+
+    Agregado el contenido adicional del blog
+
+commit 171f5207e29e74b120a4660f48904c2dc84c9537
+Author: Natalia Barrera <jnbarrera191@gmail.com>
+Date:   Wed Apr 27 14:23:52 2022 -0500
+
+    Corrección de ortografia en la cabecera
+
+commit 40fcd036cd0728c1ea1b1606279e894f2a16b832
+Author: Natalia Barrera <jnbarrera191@gmail.com>
+Date:   Wed Apr 27 14:21:31 2022 -0500
+
+    Finalizada la cabecera con diseño azul
+
+commit 0fe493fb7efee5162d50fa73990227ea4edfba07
+Author: Natalia Barrera <jnbarrera191@gmail.com>
+Date:   Wed Apr 27 14:13:27 2022 -0500
+
+    Commit a la cabercera del blogpost
+
+commit 18e95eb5738af01e099605d1cd6a5b248aa9a830
+Author: Natalia Barrera <jnbarrera191@gmail.com>
+Date:   Wed Apr 27 14:12:04 2022 -0500
+
+    Commit al master del blogpost 1
+
+commit 4ca072e764484b582ca3ab40c389edefe18e1cb9
+Author: Natalia Barrera <jnbarrera191@gmail.com>
+Date:   Wed Apr 27 14:08:04 2022 -0500
+
+    Commit al master del blogpost
+
+commit 834fa65abe84f277d563c931b2037f2a573672e6
+Author: Natalia Barrera <jnbarrera191@gmail.com>
+Date:   Tue Apr 26 19:13:28 2022 -0500
+
+    Cambio en educación
+
+commit e5d2e6fe272577516e5cd8f22f42a8987fda95af
+Author: Natalia Barrera <jnbarrera191@gmail.com>
+Date:   Tue Apr 26 19:12:26 2022 -0500
+
+    Cambio en historia
+
+commit 48ad94d7176d7b8860f64b98bbafb906902bdb22
+Author: Natalia Barrera <jnbarrera191@gmail.com>
+Date:   Tue Apr 26 19:09:52 2022 -0500
+
+    Inicia proyecto HTML con carpeta css
+
+commit e3004cc039738c4bf74e1188fcb62967832635e4
+Author: Natalia Barrera <jnbarrera191@gmail.com>
+Date:   Tue Apr 26 18:34:55 2022 -0500
+
+    Detalles de nacimiento
+
+commit ad7115d85884dcfa2805533691f1e41dad9083b6
+Author: Natalia Barrera <jnbarrera191@gmail.com>
+Date:   Tue Apr 26 18:33:15 2022 -0500
+
+    Primer comit inicio de historia
